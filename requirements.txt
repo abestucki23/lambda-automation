@@ -1,0 +1,9 @@
+requests
+pytesseract
+pdf2image
+Pillow
+pypdf
+img2pdf
+openai
+boto3
+python-dotenv
